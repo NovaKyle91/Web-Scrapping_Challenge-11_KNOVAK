@@ -11,6 +11,8 @@ In the folder labeled CSV you will find the .csv file that I saved at the end of
 
 In the folder labeled JSON File, you will find the optional JSON file that I created for Part 1 Mars News IPYNB.
 
+Please disregard the commit messages for CSV and JSON File, the changes made were the removal of empty folders.
+
 As always please reach out should you have any questions.
 
 Cheers,
